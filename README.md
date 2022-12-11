@@ -28,3 +28,11 @@ I have been working as a SOC Analyst for a year now. During this time I became e
     * SOC Analyst
     * JSC ASTEL
 
+## **SKILLS**
+* C#
+* JavaScript Basics
+* Git, GitHub, GitLab
+* HTML
+* CSS
+* VS Code
+
