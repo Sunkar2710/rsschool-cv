@@ -17,3 +17,9 @@ I have been working as a SOC Analyst for a year now. During this time I became e
 * Bachelor Of Information Security System
      * Satbayev University
      * 2017-2021
+
+
+* [ ](https://coursera.org/share/636be4ebd3e2b0d275927b398a398448 "Certificate")
+    * Higher School Of Economics National Research University
+    * 2020
+
