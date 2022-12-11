@@ -36,3 +36,17 @@ I have been working as a SOC Analyst for a year now. During this time I became e
 * CSS
 * VS Code
 
+
+## **CODE EXAMPLES**
+```javascript
+const fibonacci = n => {
+  if (n <= 1)
+    {
+        return n;
+    }
+    return fibonacci(n - 1) + fibonacci(n - 2);
+};
+
+let n = 9;
+document.write(fibonacci(n));
+
