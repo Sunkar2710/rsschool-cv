@@ -18,7 +18,6 @@ I have been working as a SOC Analyst for a year now. During this time I became e
      * Satbayev University
      * 2017-2021
 
-
 * [ ](https://coursera.org/share/636be4ebd3e2b0d275927b398a398448 "Certificate")
     * Higher School Of Economics National Research University
     * 2020
@@ -36,7 +35,6 @@ I have been working as a SOC Analyst for a year now. During this time I became e
 * CSS
 * VS Code
 
-
 ## **CODE EXAMPLES**
 ```javascript
 const fibonacci = n => {
@@ -49,4 +47,9 @@ const fibonacci = n => {
 
 let n = 9;
 document.write(fibonacci(n));
+```
 
+## **LANGUAGES**
+* **Kazakh** - Native speaker
+* **Russian** - Native speaker
+* **English** - B1
