@@ -12,3 +12,8 @@
 
 ## **BREAFLY ABOUT ME**
 I have been working as a SOC Analyst for a year now. During this time I became experienced in protecting client assets, writing correlations rules, setting up a SIEM system. However, I am particularly interested in becoming a web developer. For this, I am gaining knowledge through various learning courses. I believe that my work experience, diligence and obtained skills in web development will help me to succeed in becoming a web developer.
+
+## **EDUCATION**
+* Bachelor Of Information Security System
+     * Satbayev University
+     * 2017-2021
