@@ -23,3 +23,8 @@ I have been working as a SOC Analyst for a year now. During this time I became e
     * Higher School Of Economics National Research University
     * 2020
 
+## **JOB EXPERIENCE**
+* 2021 - Present
+    * SOC Analyst
+    * JSC ASTEL
+
